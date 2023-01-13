@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/66700080/212434362-7fa79dce-bd33-49c1-a0c4-7089aecb5cfd.gif)
+
 <!--
 **mingliu68/mingliu68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
